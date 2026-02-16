@@ -47,9 +47,10 @@ An interactive landing page for comparing AI agent platforms for business automa
 
 ### Setup Steps
 
-1. **Clone or navigate to the project directory**:
+1. **Clone the repository**:
    ```bash
-   cd "c:\Users\Peridot-IT\Downloads\P Projects\Compare Agents"
+   git clone https://github.com/Zakkur17/Compare-Agents.git
+   cd Compare-Agents
    ```
 
 2. **Install dependencies**:
