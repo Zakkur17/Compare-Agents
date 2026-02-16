@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Compare-Agents/static/css/main.de3d797e.css",
+    "main.js": "/Compare-Agents/static/js/main.aaa25cd4.js",
+    "index.html": "/Compare-Agents/index.html",
+    "main.de3d797e.css.map": "/Compare-Agents/static/css/main.de3d797e.css.map",
+    "main.aaa25cd4.js.map": "/Compare-Agents/static/js/main.aaa25cd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3d797e.css",
+    "static/js/main.aaa25cd4.js"
+  ]
+}
